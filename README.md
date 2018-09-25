@@ -4,7 +4,7 @@
 #### Build & Install
 
 ```bash
-git clone git@github.com:burnzzzz/ifrabot.git
+git clone git@github.com:burnzzzz/infrabot.git
 make build
 sudo make install
 ```
